@@ -1,5 +1,16 @@
 body{
     font-family:Calibri, Arial;
+    background-color:black;
+    color:rgb(187,28,255);
+}
+a{
+    color:rgb(15,53,245);
+}
+a:hover{
+    color:rgb(2,148,245);
+}
+a:visited{
+    color:rgb(15,53,245);
 }
 .navbar{
     list-style-type:none;
