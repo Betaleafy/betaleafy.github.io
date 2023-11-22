@@ -1,39 +1,18 @@
 body{
-    font-family:Calibri, Arial;
-    background-color:black;
-    color:rgb(187,28,255);
-}
-a{
-    color:rgb(15,53,245);
-}
-a:hover{
-    color:rgb(2,148,245);
-}
-a:visited{
-    color:rgb(15,53,245);
-}
-.navbar{
-    list-style-type:none;
-    margin:0;
-    padding:0;
-    overflow:hidden;
-    background-color:rgb(112,51,255);
-}
-.navbutton{
-    float:left;
-}
-.navbutton .hyperlink {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-.navbutton .hyperlink:hover {
-    background-color:rgb(255,134,64);
-}
-.placeholder{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:12px;
+    background:rgb(255,214,136);
+    background:linear-gradient(180deg, rgba(255,214,136,1) 0%, rgba(255,255,255,1) 39%);
     
+}
+.padding{
+    padding:500px;
+}
+nav{
+    background-color:rgb(105, 160, 255);
+}
+nav a{
+    text-decoration:none;
+    color:white;
+}
+.search{
+    float:center;
 }
